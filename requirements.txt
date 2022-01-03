@@ -1,14 +1,17 @@
-# dictionary.py: 4
+# scripts\gui.py: 8
+# scripts\syllables.py: 2
+PyQt5_sip == 12.9.0
+
+# scripts\dictation.py: 1
 SpeechRecognition == 3.8.1
 
-# dictionary.py: 5
-# webscraping.py: 1
+# scripts\meaning.py: 1
 beautifulsoup4 == 4.9.3
 
-# Voz_List.py: 1
-# dictionary.py: 3
+# scripts\dictation.py: 2
+# scripts\meaning.py: 3
+# scripts\spelling.py: 1
 pyttsx3 == 2.71
 
-# dictionary.py: 6
-# webscraping.py: 2
+# scripts\meaning.py: 2
 requests == 2.26.0
