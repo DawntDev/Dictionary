@@ -1,0 +1,14 @@
+# dictionary.py: 4
+SpeechRecognition == 3.8.1
+
+# dictionary.py: 5
+# webscraping.py: 1
+beautifulsoup4 == 4.9.3
+
+# Voz_List.py: 1
+# dictionary.py: 3
+pyttsx3 == 2.71
+
+# dictionary.py: 6
+# webscraping.py: 2
+requests == 2.26.0
