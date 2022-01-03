@@ -21,7 +21,7 @@ I created this application as a way to test the knowledge that I have started to
 
 ---
 
-<h3>What's new in v2.0.0</h3>
+<h3>What's new in v1.5</h3>
 
 - **Interface improvements**
     
