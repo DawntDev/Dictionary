@@ -15,8 +15,8 @@ Application focused on searching the meaning of words through web scraping, besi
 I created this application as a way to test the knowledge that I have started to acquire so I decided to make this dictionary with some basic functions like spelling but from there more ideas came up, like implementing a method that would tell me the meanings of the words that I didn't understand, or a way in which I didn't have to write the word and just by telling the computer I could write it. When I created this application I was just starting to learn Python (it is the language I used for this application) so I may have a lot of bad practices in the code that I am correcting for future versions. During the creation of this application I learned how to make user interfaces, I dabbled a bit in web scraping and besides investigating a method with which I can change text to sound and play it also at the end I used object oriented programming to facilitate the creation of the interface.
 
 <div align="center">
-<img alt="Dictionary | GUI" width="720px" src="assets/img-readme/gui.png">
-<img alt="Dictionary | GUI" height="450px" width="720px" src="assets/img-readme/syllables.png">
+<img alt="Dictionary | GUI" width="720px" src="https://raw.githubusercontent.com/DawntDev/Dictionary/master/assets/img-readme/gui.png">
+<img alt="Dictionary | GUI" height="450px" width="720px" src="https://raw.githubusercontent.com/DawntDev/Dictionary/master/assets/img-readme/syllables.png">
 </div>
 
 ---
